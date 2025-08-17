@@ -21,6 +21,12 @@ const res2 = obj === arr ? true:false
 const arr3 = []
 const obj3 = {}
 
-const res3 = arr3 === obj3 ? true: false
+const res3 = arr3 === obj3 ? true: false;
 
 // console.log(res3);  output is false
+
+(function(){
+
+console.log('hello');
+
+})();
